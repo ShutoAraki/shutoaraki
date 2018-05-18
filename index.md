@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-See more at [Introduction](https://github.com/ShutoAraki/shutoaraki/blob/master/newsite.md) to know more about this guy!
+See more at [Introduction](https://shutoaraki.github.io/shutoaraki/newsite) to know more about this guy!
 
 You can use the [editor on GitHub](https://github.com/ShutoAraki/shutoaraki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
